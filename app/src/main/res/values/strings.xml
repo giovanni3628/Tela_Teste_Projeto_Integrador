@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">prototipo_app</string>
+    <string-array name="Categoria">
+        <item>Escolha uma categoria</item>
+        <item>Medicamentos</item>
+        <item>Tratamento</item>
+        <item>Cirurgia</item>
+    </string-array>
+</resources>
